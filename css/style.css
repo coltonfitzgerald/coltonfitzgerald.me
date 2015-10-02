@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 100vh;
+}
+
+main {
+    background-color: #5a6b7e;
+}
+
+h1 {
+    margin-top: 0;
+}
